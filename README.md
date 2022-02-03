@@ -41,4 +41,4 @@ A different or additional version especially for a specific clan or someone spec
 
 **BUGS**: If you find one or any problem please report it.
 
-> The inappropriate use of this is totally prohibited.
+> The inappropriate use of this is totally **prohibited**.
